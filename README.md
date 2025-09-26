@@ -22,6 +22,7 @@ lecture → nettoyage → enrichissement → fusion → export d’un fichier fi
 ---
 
 ## 📂 Organisation du projet
+```
 sd2-sae-csv-pipeline/
 ├─ src/
 │ └─ saecsvscript.py # script Python principal
@@ -37,7 +38,7 @@ sd2-sae-csv-pipeline/
 │ └─ Rapport_sae_csv.pdf # rapport de projet
 ├─ journal_des_modifications.txt # suivi des modifications
 └─ README.md
-
+```
 
 ---
 
