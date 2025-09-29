@@ -4,13 +4,13 @@
 ![Made with](https://img.shields.io/badge/made%20with-Python-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-## 🎯 Objectif
+## Objectif
 Mettre en place un pipeline de traitement de données CSV hospitalières :  
 lecture → nettoyage → enrichissement → fusion → export d’un fichier final exploitable.  
 
 ---
 
-## 🧰 Stack & compétences
+##  Stack & compétences
 - **Langages & libs :** Python 3, `pandas`, `datetime`
 - **Compétences :**
   - Lecture et écriture de fichiers CSV
@@ -21,7 +21,7 @@ lecture → nettoyage → enrichissement → fusion → export d’un fichier fi
 
 ---
 
-## 📂 Organisation du projet
+##  Organisation du projet
 ```
 sd2-sae-csv-pipeline/
 ├─ src/
@@ -42,7 +42,7 @@ sd2-sae-csv-pipeline/
 
 ---
 
-## 📜 Méthode
+##  Méthode
 1. Lecture des fichiers CSV avec `pandas.read_csv()`.
 2. Normalisation des textes et formats de dates.
 3. Traitement des valeurs manquantes.
@@ -53,14 +53,14 @@ sd2-sae-csv-pipeline/
 
 ---
 
-## 🔎 Résultats clés
+##  Résultats clés
 - Pipeline reproductible, commenté et structuré.
 - Données brutes transformées en un **dataset hospitalier final exploitable**.
 - Rapport complet détaillant la méthodologie.
 
 ---
 
-## ▶️ Exécution
+## Exécution
 ```bash
 # Créer un environnement virtuel (optionnel mais recommandé)
 python -m venv .venv
