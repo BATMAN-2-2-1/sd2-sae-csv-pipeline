@@ -73,3 +73,18 @@ pip install pandas
 # Lancer le script
 python src/saecsvscript.py
 ```
+```
+       _==/          i       i          \==_
+     /XX/            |\-"""-/|            \XX\
+   /XXXX\            |       |            /XXXX\
+  |XXXXXX\_         _|       |_         _/XXXXXX|
+ XXXXXXXXXXXxxxxxxxXXXXXXXXXXXxxxxxxxXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|
+ XXXXXX/^^^^"\XXXXXXXXXXXXXXXXXXXXX/^^^^"XXXXXX
+  |XXX|       \XXX/^^\XXXXX/^^\XXX/       |XXX|
+    \XX\       \X/    \XXX/    \X/       /XX/
+       "\       "      \X/      "       /"
+                        !
+```
